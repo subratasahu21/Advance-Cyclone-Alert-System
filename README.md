@@ -17,7 +17,13 @@ Matplotlib & Seaborn (for data visualization)
 Cloud Computing (Optional: AWS, GCP, or Azure)
 
 📂 Project Structure
-📦 Advanced-Cyclone-Alert-System├── 📁 Article/               ├── 📁 Code/             ├── 📁 Document/            ├── 📁 Result/          ├── 📄 README.md
+📦 Advanced-Cyclone-Alert-System
+├── 📁 Article/               
+├── 📁 Code/             
+├── 📁 Document/            
+├── 📁 Result/          
+├── 📄 README.md
+
 📊 Dataset
 The dataset consists of historical cyclone records, satellite imagery, wind speed, pressure variations, and temperature anomalies. The data is preprocessed and fed into the deep learning model for accurate predictions.
 
