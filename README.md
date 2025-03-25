@@ -4,7 +4,7 @@
 The Advanced Cyclone Alert System is a weather forecasting model leveraging Deep Learning to provide early cyclone warnings. The system analyzes meteorological data, predicts cyclone formations, and generates alerts to minimize potential damage.
 
 🛠️ Technologies Used
-Deep Learning (CNN, LSTM, or Transformers)
+Deep Learning (RNN, LSTM, GRU)
 
 Python
 
