@@ -76,12 +76,16 @@ python main.py
 🏆 Features
 
 ✅ Real-time weather data processing
+
 ✅ Predicts cyclone intensity & path
+
 ✅ Generates early warning alerts
+
 ✅ Supports visualization for meteorological patterns
 
 🤝 Contributing
 If you’d like to contribute, fork the repository and submit a pull request. Let's build a safer world together!
 
 📜 License
+
 This project is licensed under the MIT License.
