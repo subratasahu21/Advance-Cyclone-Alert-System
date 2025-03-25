@@ -1,0 +1,12 @@
+              precision    recall  f1-score   support
+
+          CS       0.98      0.98      0.98       335
+           D       0.98      0.99      0.99       650
+          DD       0.95      0.96      0.96       298
+         SCS       0.96      0.91      0.94       120
+        SuCS       0.88      0.94      0.91        68
+        VSCS       0.91      0.90      0.91       119
+
+    accuracy                           0.97      1590
+   macro avg       0.95      0.95      0.95      1590
+weighted avg       0.97      0.97      0.97      1590
