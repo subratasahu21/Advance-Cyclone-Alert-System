@@ -32,30 +32,49 @@ The dataset consists of historical cyclone records, satellite imagery, wind spee
 Clone the Repository
 
 sh
+
 Copy
+
 Edit
+
 git clone https://github.com/subratasahu21/Advanced-Cyclone-Alert-System.git
+
 cd Advanced-Cyclone-Alert-System
+
 Create a Virtual Environment (Optional but Recommended)
 
 sh
+
 Copy
+
 Edit
+
 python -m venv venv  
+
 source venv/bin/activate   # On Windows: venv\Scripts\activate
+
 Install Dependencies
 
 sh
+
 Copy
+
 Edit
+
 pip install -r requirements.txt
+
 Run the Model
 
 sh
+
 Copy
+
 Edit
+
 python main.py
+
 🏆 Features
+
 ✅ Real-time weather data processing
 ✅ Predicts cyclone intensity & path
 ✅ Generates early warning alerts
